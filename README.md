@@ -7,4 +7,6 @@
 - 🥅 Goals: Contribute to Open Source projects.
 - ⚡ I love to play video games and explore possibilities in UI/UX.
 
-[![Spotify](https://RidiculousRJ.vercel.app/api/spotify)](https://open.spotify.com/user/RidiculousRJ)
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-liard-nine.vercel.app/api/spotify)](https://open.spotify.com/user/315stx7757xh62pt36d4ogbn4rji)
