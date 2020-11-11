@@ -7,7 +7,7 @@
 - 🥅 Goals: Contribute to Open Source projects.
 - ⚡ I love to play video games and explore possibilities in UI/UX.
 
-### <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> Playing 🎧
+### <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> 🎧
 
 [![Not Playing](https://novatorem-liard-nine.vercel.app/api/spotify)](https://open.spotify.com/user/315stx7757xh62pt36d4ogbn4rji)
 
