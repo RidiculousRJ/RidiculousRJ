@@ -33,7 +33,7 @@
 [<img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />][WebSite]
 [<img align="left" alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white" />][WebSite]
 [<img align="left" alt="CSharp" src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white" />][WebSite]
-[<img align="left" alt="Mysql" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />][WebSite]
+[<img align="left" alt="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />][WebSite]
 
 
 [Whatsapp]: https://wa.me/917841869956
