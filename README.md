@@ -37,6 +37,6 @@
 
 
 [Whatsapp]: https://wa.me/917841869956
-[LinkedIN]: www.linkedin.com/in/RidiculousRJ
+[LinkedIN]: https://www.linkedin.com/in/RidiculousRJ/
 [Steam]: https://steamcommunity.com/id/RidiculousRJ/
 [WebSite]: https://rahul.jedhe.in/
